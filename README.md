@@ -28,7 +28,7 @@ Also      : Dogs
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="423" align="center" valign="top">
 <br>
 <a href="https://www.mattskare.com/projects/"><img src="assets/pedal-overdrive.svg" width="48" alt="" /></a>
 
@@ -41,7 +41,7 @@ Live setlists and quick stage notes for gigging musicians.
 ![Offline-first](https://img.shields.io/badge/offline--first-e7c449?style=flat-square)
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="423" align="center" valign="top">
 <br>
 <a href="https://github.com/mattskare/configbot"><img src="assets/pedal-delay.svg" width="48" alt="" /></a>
 
@@ -56,7 +56,7 @@ Configuration management for the homelab.
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="423" align="center" valign="top">
 <br>
 <a href="https://github.com/mattskare/scripts"><img src="assets/pedal-fuzz.svg" width="48" alt="" /></a>
 
@@ -69,7 +69,7 @@ A collection of useful scripts for the boring stuff.
 ![Last commit](https://img.shields.io/github/last-commit/mattskare/scripts?style=flat-square&color=d6492c&label=updated)
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="423" align="center" valign="top">
 <br>
 <a href="https://github.com/mattskare/configs"><img src="assets/pedal-tuner.svg" width="48" alt="" /></a>
 
@@ -93,16 +93,16 @@ Shell profiles, terminal settings and other dotfiles.
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><sub><b>SCRIPTING</b></sub><br><br>
+<td align="center" width="212"><sub><b>SCRIPTING</b></sub><br><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell,bash,python&theme=dark"><img src="https://skillicons.dev/icons?i=powershell,bash,python&theme=light" width="150" alt="PowerShell, Bash, Python" /></picture>
 </td>
-<td align="center" width="25%"><sub><b>ENDPOINT &amp; CLOUD</b></sub><br><br>
+<td align="center" width="212"><sub><b>ENDPOINT &amp; CLOUD</b></sub><br><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows,azure,linux&theme=dark"><img src="https://skillicons.dev/icons?i=windows,azure,linux&theme=light" width="150" alt="Windows, Azure, Linux" /></picture>
 </td>
-<td align="center" width="25%"><sub><b>CI/CD &amp; INFRA</b></sub><br><br>
+<td align="center" width="212"><sub><b>CI/CD &amp; INFRA</b></sub><br><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions,terraform,docker&theme=dark"><img src="https://skillicons.dev/icons?i=githubactions,terraform,docker&theme=light" width="150" alt="GitHub Actions, Terraform, Docker" /></picture>
 </td>
-<td align="center" width="25%"><sub><b>APPS &amp; WEB</b></sub><br><br>
+<td align="center" width="212"><sub><b>APPS &amp; WEB</b></sub><br><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio,firebase,ts&theme=dark"><img src="https://skillicons.dev/icons?i=androidstudio,firebase,ts&theme=light" width="150" alt="Android Studio, Firebase, TypeScript" /></picture>
 </td>
 </tr>
